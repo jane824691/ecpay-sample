@@ -16,6 +16,7 @@ const options = {
     MerchantID: MERCHANTID,
     HashKey: HASHKEY,
     HashIV: HASHIV,
+    MercProfile: 'Default'
   },
   IgnorePayment: [
     //    "Credit",
